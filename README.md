@@ -6,7 +6,7 @@
 2. Navigate to your following list (for example, mine are at [twitter.com/kravse/following](https://twitter.com/kravse/following))
 3. Open your browser console (helpful guide [here](https://balsamiq.com/support/faqs/browserconsole/)
 4. Paste the script in, and hit enter. 
-5. Start scrolling, not too fast, but not too slow. 
+5. Start scrolling, _YOU NEED TO SCROLL_ through your followers since twitter followers are lazy loaded. Don't go too fast, but not too slow. 
 6. Once you've scrolled all your followers wait 2.5 seconds. 
 7. The list should get printed out. 
 8. Copy the list 🤷
