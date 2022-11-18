@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Copy this (want to understand what it does? View the commented file [here](https://github.com/kravse/twitter-follower-scraper/edit/main/scraper.js)):
+1. Copy this (want to understand what it does? View the commented file [here](https://github.com/kravse/twitter-follower-scraper/blob/main/scraper.js)):
 ```js
 (() => {
   let list = [];
