@@ -1,8 +1,10 @@
 # Follower / Follow list scraper
+## Note: Usually you should NOT paste things into your browser console unless you 100% understand what they do. 
+To mitigate this, I've added a ton of comments to the file [here](https://github.com/kravse/twitter-follower-scraper/blob/main/scraper.js). Use at your own risk. 
 
 ## Instructions
 
-1. Copy this (want to understand what it does? View the commented file [here](https://github.com/kravse/twitter-follower-scraper/blob/main/scraper.js)):
+1. Copy this:
 ```js
 (() => {
   let list = [];
