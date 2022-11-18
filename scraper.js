@@ -1,3 +1,10 @@
+/*
+ * I've opted to heavily comment this file because people are expected to paste it into their browser. 
+ * Usually you should NOT paste things into your browser console. 
+ * It is my hope that the comments help less JavaScript-familiar people understand what they're doing. 
+ * Again... do NOT paste things you do not understand into your browser console. 
+ */
+
 (() => {
   // create an empty list (your followers will be stored here)
   let list = [];
